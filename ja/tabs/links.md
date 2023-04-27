@@ -41,18 +41,18 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "リンク"
-    info: "リンクページの説明はこちら。"
+    header: "Japan Fake"
+    info: "uwuwuwu"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
     - title: "JekyII / Liquid"
       type: id_jekyiiliquid
       color: "gray"
-    - title: "Webデザイン"
+    - title: "Web1"
       type: id_webdesign
       color: "#F4A273"
-    - title: "プログラミング"
+    - title: "Web2  "
       type: id_programming
       color: "#62b462"
 

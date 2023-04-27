@@ -25,8 +25,8 @@ page_data:
   list:
     # example
     - type: id_example
-      project_name: "サンプルプロジェクト"
-      project_excerpt: "例"
+      project_name: "project 1"
+      project_excerpt: "p2"
       img: ":project1_thumb.jpg"
       img_title: "img title1"
       date: "2021-03-13"
@@ -173,7 +173,7 @@ page_data:
 
     # picture
     - type: id_picture
-      project_name: "サンプルプロジェクト"
+      project_name: "UWU"
       project_excerpt: "写真"
       img: ":project2_thumb.jpg"
       img_title: "img title2"

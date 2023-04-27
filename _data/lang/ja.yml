@@ -141,26 +141,26 @@ home:
 
 # for archives layout
 archives:
-  title: アーカイブ
+  title: ARCHIVESJP
   button_name: アーカイブ
   page_header: アーカイブ
 
 # for about layout
 about:
-  title: 私について
+  title: AboutJP
   button_name: 私について
   email_title: メール
 
 # for links layout
 links:
-  title: リンク
+  title: lINKSJP
   button_name: リンク
   link_text: Webサイト
   info_text: 説明
 
 # for projects layout
 projects:
-  title: プロジェクト
+  title: ProjectsJP
   button_name: プロジェクト
   read_more_text: 続きを読む
   read_less_text: 閉じる
