@@ -38,8 +38,7 @@ img: ":home-heading.jpg"
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-<div>
-<p>contenido de mi pagina prueba</p></div>
+
 {%- include util/auto-content-generator.liquid -%}
 {{ website_info_text_first }}
 
