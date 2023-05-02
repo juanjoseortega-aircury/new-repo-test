@@ -49,11 +49,11 @@ meta_common_description: "メタディスクリプション"
 # comment to remove any contact item
 contacts:
   #- github: ""
-  #- email: ""
+  - email: "juanjose.ortega@aircury.com"
   #- linkedin: ""
-  #- twitter: ""
+  - twitter: "@testuser"
   #- mastodon: ""
-  #- instagram: ""
+  - instagram: "@test"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
